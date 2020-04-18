@@ -1,0 +1,20 @@
+.button{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    flex:1;
+    width: 5em !important;
+    height: 5em !important;
+    background-color: rgb(163, 160, 160) !important;
+   
+    border: 1px solid black !important;
+    font-weight: bolder !important;
+    font-size: 15px !important;
+    padding: 20px 20px !important;
+    
+}
+
+.operator{
+    background-color: rgb(226, 168, 61) !important;
+    color: white !important;
+}
